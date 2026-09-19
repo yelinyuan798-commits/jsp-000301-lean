@@ -1,0 +1,6 @@
+name = "JustinSunProofs"
+version = "0.1.0"
+defaultTargets = ["JustinSunProofs"]
+
+[[lean_lib]]
+name = "JustinSunProofs"
